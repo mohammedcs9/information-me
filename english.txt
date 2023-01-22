@@ -1,0 +1,155 @@
+A:Adjectives:
+1.angry:                                           
+2.Beautiful:
+3.Breave:
+4.Coward:
+5.Careful:
+6.Careless:
+7.Clever:
+8.Cute:
+9.Dangerous:
+10.Happy:
+11.Excited:
+12.Famous:
+13.Friendly:
+14.Lucky:
+15.Unlucky:
+16:Goalkeeper:
+17.Ugly:
+18.Old:
+19.Young:
+20.Grandmother:
+A:S:Statments:
+1.Look  at the angry girl:
+2.Lions are very dangerous:
+3.My work friends are frindly:
+4.The goalkeeper is very unlucky:
+5.I like this beautiful tree:
+6.This man is coward:
+7.I don't like this careless man:
+8.My friend is very brave:
+***************************************
+B:Pronouns:
+1.pronouns actor:     2.adjectives possessive:   3.possessive pronouns:
+- I	انا	- my   ي               	      -mine لي
+- You	انت-انتم	- your ك		      -yours لك
+- He	هو	-his ه		      -his له
+- She	هي	-her ها  		      -hers لها
+- It    هو / هي (لغير العاقل)	- it ه/ها (لغير العاقل)                  -it له/لها
+- We 	نحن	-our نا		      -ours لنا
+-They 	هم	-their هم		      -theirs لهم
+
+
+رموز لغة السي بلس بلس
+الرموز المستخدمه في كتابة اكواد لغة سي بلس بلس 
+
+الحروف : هي جميع الحروف الانجليزية الكبيره والصغيره تعتبر السي بلس بلس حساسة من جهت الحروف الكبيره والصغيره 
+وسنذكر كيف تكون حساسه عند شرح المتغيرات 
+
+الارقام : تعتبر من الرموز المستخدمه 1 2 3 4 5 6 7 8 9 0 
+
+ الرموز التالية 
+[ ] تستخدم للمصفوفات
+" علامة التنصيص ووهي تكون حاصرة للنصوص التي نريد اخراجها
+! علامت التعجب وهي تعني في اللغة النفي
+< اكبر من
+> اصغر من
+- الناقص او السالب
++ الزياده او الموجب
+* الضرب
+, الفاصله
+|| او or
+( ) القوسين تحصر العمليات بداخلها
+_ شرطة تحت 
+<<للمخراجات cout او الازاحة
+<< للمدخلات cin
+<= اكبر من او يساوي
+>=اصغر من او يساوي
+/ القسمة
+!= لا يساوي
+& و and
+% باقي القسمة 
+# اول شيء تكتبة في البرنامج وهي لتعريف المكتبة المستخدمة
+-- للنقصان بمقدار واحد
+++ للزيادة بمقدار واحد
+; الفاصلة المنقوطة توضع في نهاية كل عملية
+\n
+سطر جديد Newline
+
+\r 
+العودة Return
+
+\t 
+Tabمسافة خمس او ثمان حروف 
+
+\\ 
+تطبع باك سلاش وحدة \ Backslash
+
+\‘ 
+تطبع فاصلةSingle quotation mark
+
+\“ 
+تطبع فاصلتين Double quotation marks
+
+الكلمات المحجوزة: هي كلمات معروفة لدى المترجم ولها معاني خاصة عنده ,وتكتب بحروف انجليزية صغيره  كما يلي 
+
+
+Static 
+asm
+Double
+long
+Sizeof
+do
+int
+near
+While
+auto
+else
+For
+This
+Void
+Delete
+Goto
+if
+const
+Entry
+Class
+Public
+Case
+Continue
+Extern
+struct
+float
+Private
+Virtual
+Volatile
+Frinde
+enum
+near
+Static
+cdecl
+Default
+inline
+Overload
+Unsigned
+Typedef
+new
+Signed
+Pascal
+Operator
+Switch
+Template
+Union
+Register
+Protected
+far
+Catch
+char
+Const
+break
+Return
+
+
+
+
+
